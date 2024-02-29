@@ -23,7 +23,7 @@
 -  👋Hi, I’m @dilangnd, I am learning constantly and trying to become an excellent developer 
 -  👀As you can guess, Coding different things is my hobby also personal finances, bussiness and economics
 -  🌱I’m currently practising Java againg after a long time of no coding. Studying Full-Stack Dev. Javascript (MERN Stack)
--  📫How to reach me: <a href="https://twitter.com/aharon98"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" /></a> or 
+-  📫How to reach me: <a href="https://X.com/aharon98"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" /></a> or 
     <a href="https://www.linkedin.com/in/dylan-perez/"><img src="https://img.shields.io/badge/Linkedin-strong?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
   
@@ -43,13 +43,8 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg" title="Wordpress"  alt="Wordpress" width="40" height="40"/>&nbsp;
 </div>
   <h3>Currently Studying</h3>
-    - Javascript Full Stack (MERN Stack) / (MEAN Stack)
+    - Javascript: NodeJS
       <ul>
-        <li><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/> MySQL</li>
-        <li><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/> MongoDB</li>
-        <li><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express"  alt="Express" width="40" height="40"/> Express</li
-        <li><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/> React</li>
-        <li><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="Angular" alt="Angular" width="40" height="40"/> Angular</li>
         <li><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> Node</li>
       </ul>
 
